@@ -1,0 +1,8 @@
+/* estilos.css - Estilos propios complementarios a Bootstrap 5 */
+body { background: #f4f6f9; font-family: 'Segoe UI', Arial, sans-serif; }
+.navbar-brand { font-weight: 700; letter-spacing: .3px; }
+.card { border: none; border-radius: 12px; }
+.table thead th { font-size: .85rem; text-transform: uppercase; letter-spacing: .4px; }
+.rounded-3 { border-radius: 14px !important; }
+footer { font-size: .85rem; }
+@media (max-width: 576px) { main.container { padding-left: 10px; padding-right: 10px; } }
